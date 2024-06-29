@@ -17,24 +17,7 @@ Keluhan kesehatan merupakan gangguan terhadap kondisi fisik dan jiwa, dapat dise
 
 Penelitian ini menggunakan data yang diambil dari dokumen Badan Pusat Statistik Nasional melalui situs resmi mereka. Metode analisis yang diterapkan adalah clustering, yang bertujuan memisahkan penduduk berdasarkan keluhan kesehatan menurut provinsi. Hasil dari proses clustering dibagi menjadi tiga kelompok, yaitu keluhan kesehatan tinggi, sedang, dan rendah. Informasi ini dapat menjadi masukan penting bagi pemerintah, sehingga provinsi yang masuk dalam 
 
-<br>
 
 ## Kesimpulan
 
-Berdasarkan hasil penelitian dan pembahasan yang mengacu pada tujuan penelitian ini, maka disimpulkan bahwa :
-1.	Berhasil menerapkan konsep data mining dengan metode analisis deskriptif (mencari nilai rata-rata) dan menggunakan algoritma clustering k-means.
-2.	Berdasarkan data penelitian yang diambil dari sumber badan pusat statistik indonesia total keseluruhan rata - rata laki - laki dan perempuan yang tertinggi di tahun 2020.
-3.	Berdasarkan pengujian keluhan kesehatan indonesia di 34 provinsi Aceh menjadi peringkat pertama dengan keluhan kesehatan terbanyak.
-4.	Berdasarkan pengujian Perempuan menjadi salah satu peringkat pertama keluhan kesehatan tertinggi di indonesia.
-5.	Berdasarkan pengujian Perdesaan menjadi salah satu keluhan kesehatan terbanyak di indonesia.
-6.	Berdasarkan pengujian kenaikan terbanyak terjadi di Sulawesi Selatan dan penurunan terjadi di Bali.
-
-<br>
-
-## Saran
-
-Berdasarkan hasil penelitian dan pembahasan yang mengacu pada batasan penelitian ini, maka dapat disarankan bahwa :
-1.	Bagi peneliti seterusnya diharapkan agar dilanjutkan dengan menggunakan metode lainnya untuk mendukung keakuratan lebih jelas dari pengelompokkan data yang sudah kami lampirkan.
-2.	Hasil yang didapat dari penelitian ini dapat menjadi masukan kepada pemerintah, provinsi yang menjadi perhatian lebih pada penduduk yang memiliki keluhan kesehatan tertinggi berdasarkan cluster yang telah dilakukan.
-
-<br>
+Penggunaan algoritma logistic regression pada dataset spotify memberikan prediksi yang bermanfaat mengenai popularitas lagu berdasarkan atribut tertentu. Untuk penelitian berikutnya, disarankan untuk mengeksplorasi lebih lanjut faktor-faktor yang mempengaruhi popularitas lagu, seperti artis, genre, dan strategi kampanye pemasaran.
